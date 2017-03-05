@@ -1,6 +1,6 @@
 #include <string>
 #include <locale>
-#include "ctype.h"
+#include <cctype>
 #include <iostream>
 #include <fstream>
 
